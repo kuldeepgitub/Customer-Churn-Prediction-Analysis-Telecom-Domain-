@@ -9,7 +9,7 @@ Using **Python (Pandas, NumPy, Matplotlib, Seaborn)**, I performed data cleaning
 ---
 
 ## 📂 Dataset
-- Source: [Telco Customer Churn Dataset]
+- Source: kaggle
 - Size: 7,043 customer records
 - Features: Demographics, Contract details, Internet & Phone services, Payment methods, Churn status
 
